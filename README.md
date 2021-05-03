@@ -8,7 +8,7 @@
   ``` html
   <!-- Đối tượng đường link trỏ tới, thuộc tính `href`
   trỏ tới đối tượng trong rubybox -->
-  <a class="rubybox" href="#"></a>
+  <a class="rubybox" href=".noidung"></a>
 
   <!-- Nội dung của rubybox, chứa trong div có `display: none;` -->
   <div style="display: none;">
